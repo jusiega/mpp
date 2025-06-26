@@ -1,5 +1,5 @@
 # mpp
 morski pomiarowy przyrząd
-kicad w folderze kicad
+arduino w folderze mors_ino
 autocad w folderdze autocad
-arduino w folderze arduino tylko tam jeszcze nic nie ma
+kicad w folderze kicad/b

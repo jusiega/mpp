@@ -1213,6 +1213,16 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "termo data\n"
+		(exclude_from_sim no)
+		(at 132.08 87.63 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "60007f89-f569-40c3-a22f-807b555c8c5c")
+	)
 	(text "do tego wpięta dioda. druga strona diody jest podłączona do masy przez jakiś rezystor sposobem druciarskim bo nie pomieszczę tych szpadkowych konektorów"
 		(exclude_from_sim no)
 		(at 283.21 101.346 0)
